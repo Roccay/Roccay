@@ -1,6 +1,6 @@
 ### Hi there, I'm Roccay 👋
 
-## I am...  
+## I am also...  
 <p align="center">
 a software developer  
   <p align="center">
@@ -11,17 +11,20 @@ a indie game developer
 <img width="28px" src="https://yt3.ggpht.com/dBwhvX2iF121h0UWumMKi5_4cPclBTKIdIm3KM9KroRUcLWrLkppDf67dIDH-i_YrBAupazR=s900-c-k-c0x00ffffff-no-rj" />  
     <p align="center">
 and a graphic designer.  
-<hr/>
+
+## More about me..  
 ⚡ I love deveoping different kinds of app during my freetime!  
   
     
 🔭 I'm currently working on an task management App.  
   
-🌱 I'm currently studying intermediate level of python
+🌱 I'm currently studying python in intermediate level 
   
-😄 Pronouns: < She / Her >  
+📕 Favorite Writer: Fyodor Dostoevsky / Philip K.Dick
+
+🧑‍🎤 Favorite Band: Earth, Wind & Fire  
   
-👯 Open For Jobs!!
+
 
 ## Here are some of my previous project...
 
