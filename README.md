@@ -29,6 +29,7 @@ and a graphic designer.
 ## Here are some of my previous project...
 
 [MEMORA](https://memora-roccay.herokuapp.com/lobby) - A real time chatting app  
+[MEMORA(new)](https://memora-1fbec.web.app/lobby) - A real time chatting app  
 [MetaZone](https://metazon.herokuapp.com/) - An E-commerce website for digital products
 <br />
 
